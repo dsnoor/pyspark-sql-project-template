@@ -1,4 +1,4 @@
-# pyspark-sql-demo
+# pyspark-sql-project-template
 
 With pipenv installed on Mac/Linux machine
 
